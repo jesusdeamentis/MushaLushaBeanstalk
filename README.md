@@ -3,7 +3,7 @@ Servicio para la implementación, aprovisionamiento de la capacidad, control y e
 
 Requerimientos funcionales:
 - Almacenamiento de los micro-servicios utilzados para el desarrollo de Musha Lusha
-- Control de alas herramienas internas de AWS (EC2 y ECS)
+- Control de las herramienas internas de AWS (EC2 y ECS)
 
 Requerimientos no funcionales:
 - Capacidad suficiente
